@@ -134,6 +134,7 @@ nav:
           - Mac Address: "dev/code_reference/mac.md"
           - Password: "dev/code_reference/password.md"
           - Ping: "dev/code_reference/ping.md"
+          - Platform Mapper: "dev/code_reference/platform_mapper.md"
           - Protocol Mapper: "dev/code_reference/protocol_mapper.md"
           - Route: "dev/code_reference/route.md"
           - Time: "dev/code_reference/time.md"
