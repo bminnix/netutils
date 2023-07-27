@@ -68,7 +68,7 @@ _JINJA2_FUNCTION_MAPPINGS = {
     "uptime_string_to_seconds": "time.uptime_string_to_seconds",
     "get_napalm_getters": "lib_helpers.get_napalm_getters",
     "create_platform_object": "platform_mapper.create_platform_object",
-    "juniper_junos_version_parser": "platform_mapper.juniper_junos_version_parser",
+    "juniper_junos_version_parser": "os_version_parser.juniper_junos_version_parser",
 }
 
 

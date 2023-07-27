@@ -51,6 +51,7 @@
 | mac_to_format | netutils.mac.mac_to_format |
 | mac_to_int | netutils.mac.mac_to_int |
 | mac_type | netutils.mac.mac_type |
+| juniper_junos_version_parser | netutils.os_version_parser.juniper_junos_version_parser |
 | compare_type5 | netutils.password.compare_type5 |
 | compare_type7 | netutils.password.compare_type7 |
 | decrypt_type7 | netutils.password.decrypt_type7 |
