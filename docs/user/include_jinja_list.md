@@ -59,7 +59,7 @@
 | encrypt_type7 | netutils.password.encrypt_type7 |
 | get_hash_salt | netutils.password.get_hash_salt |
 | tcp_ping | netutils.ping.tcp_ping |
-| create_platform_object | netutils.platform_mapper.create_platform_object |
+| os_platform_object_builder | netutils.platform_mapper.os_platform_object_builder |
 | longest_prefix_match | netutils.route.longest_prefix_match |
 | uptime_seconds_to_string | netutils.time.uptime_seconds_to_string |
 | uptime_string_to_seconds | netutils.time.uptime_string_to_seconds |
