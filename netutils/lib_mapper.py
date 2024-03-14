@@ -491,6 +491,13 @@ NETUTILSPARSER_LIB_MAPPER_REVERSE = {
     "ubiquiti_airos": "ubiquiti_airos",
 }
 
+# Normalized | NIST Parser
+NIST_LIB_MAPPER = {
+    "cisco_nxos": "nx-os",
+    "cisco_xr": "ios_xr",
+    "cisco_xe": "ios_xe",
+}
+
 # Deep copy the reverse, where there is no actual translation happening.
 NETMIKO_LIB_MAPPER_REVERSE = copy.deepcopy(NETMIKO_LIB_MAPPER)
 NTCTEMPLATES_LIB_MAPPER_REVERSE = copy.deepcopy(NTCTEMPLATES_LIB_MAPPER)
