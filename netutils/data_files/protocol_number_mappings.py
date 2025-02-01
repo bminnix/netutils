@@ -144,6 +144,8 @@ PROTO_NAME_TO_NUM: Dict[str, int] = {
     "Ethernet": 143,
     "AGGFRAG": 144,
     "NSH": 145,
+    "Homa": 146,
+    "BIT-EMU": 147,
     "Reserved": 255,
 }
 PROTO_NUM_TO_NAME: Dict[int, str] = {
@@ -288,5 +290,7 @@ PROTO_NUM_TO_NAME: Dict[int, str] = {
     143: "Ethernet",
     144: "AGGFRAG",
     145: "NSH",
+    146: "Homa",
+    147: "BIT-EMU",
     255: "Reserved",
 }
